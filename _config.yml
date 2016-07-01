@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Eymen Kurdoglu, your friendly neighborhood curious fella
+title: Eymen Kurdoglu
 email: eymenkurdoglu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-"a few half-baked thoughts and ideas about, uhm, some stuff. mostly video calling/conferencing research, some machine learning/data science. and maybe some more later on."
+ "a modest collection of what I've done so far during my PhD"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eymenkurdoglu.github.io" # the base hostname & protocol for your site
 twitter_username: gereksizengerek
