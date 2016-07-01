@@ -9,7 +9,7 @@
 title: Eymen Kurdoglu, your friendly neighborhood curious fella
 email: eymenkurdoglu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-a few half-baked thoughts and ideas about, uhm, some stuff. mostly video calling/conferencing research, some machine learning/data science. and maybe some more later on.
+"a few half-baked thoughts and ideas about, uhm, some stuff. mostly video calling/conferencing research, some machine learning/data science. and maybe some more later on."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eymenkurdoglu.github.io" # the base hostname & protocol for your site
 twitter_username: gereksizengerek
