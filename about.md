@@ -22,6 +22,8 @@ You can [get the pdf](/assets/Eymen_Kurdoglu.pdf) directly.
 
 # Publications
 
+* F. Duanmu, E. K., Y. Liu, Y. Wang, "View Direction and Bandwidth Adaptive 360 Degree Video Streaming Using Two-Tier System", submitted to ISCAS 2017
+
 * E. K., Y. Liu, Y. Wang, Y. Shi, C. Gu, J. Lyu, "Real-time Bandwidth Prediction and Rate Estimation for Video Calls over Cellular Networks", in Proc. of ACM MMSys, 2016 / Klagenfurt, Austria
 
 * E. K., Y. Liu, Y. Wang, "Dealing with User Heterogeneity in P2P Multi-party Video Conferencing: Layered Distribution Versus Partitioned Simulcast", in IEEE Transactions on Multimedia, vol. 18, no. 1, 2016
