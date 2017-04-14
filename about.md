@@ -22,7 +22,11 @@ You can [get the pdf](/assets/Eymen_Kurdoglu.pdf) directly.
 
 # Publications
 
-* F. Duanmu, E. K., Y. Liu, Y. Wang, "View Direction and Bandwidth Adaptive 360 Degree Video Streaming Using Two-Tier System", submitted to ISCAS 2017
+* E. K., Y. Liu, Y. Wang, "Perceptual Quality Maximization for Video Calls with Packet Losses by Optimizing FEC, Frame Rate and Quantization", submitted to IEEE Transactions on Multimedia
+
+* F. Duanmu, E. K., Y. Liu, Y. Wang, "Prioritized Buffer Control in Two-Tier 360 Video Streaming", submitted to ACM Sigcomm VR/AR Network Workshop 
+
+* F. Duanmu, E. K., Y. Liu, Y. Wang, "View Direction and Bandwidth Adaptive 360 Degree Video Streaming Using Two-Tier System", in Proc. of ISCAS, 2017 / Baltimore, Maryland 
 
 * E. K., Y. Liu, Y. Wang, Y. Shi, C. Gu, J. Lyu, "Real-time Bandwidth Prediction and Rate Estimation for Video Calls over Cellular Networks", in Proc. of ACM MMSys, 2016 / Klagenfurt, Austria
 
