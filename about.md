@@ -6,7 +6,9 @@ permalink: /about/
 
 # Hi :)
 
-I am a Ph.D. candidate in the [ECE Department](http://engineering.nyu.edu/academics/departments/electrical) at [NYU Tandon School of Engineering](http://engineering.nyu.edu/), working as a research assistant at the [Video Lab](http://vision.poly.edu/), [Networked Systems Lab](http://wan.poly.edu/), and [NYU WIRELESS](http://wireless.engineering.nyu.edu). I am co-advised by Prof. [Yao Wang](http://eeweb.poly.edu/~yao/) and Prof. [Yong Liu](http://eeweb.poly.edu/~yongliu/). Here you can find some introductory info on me and what I have been up to. Reach me out if you are interested in anything here.
+I recently got my Ph.D. candidate from the [ECE Department](http://engineering.nyu.edu/academics/departments/electrical) at [NYU Tandon School of Engineering](http://engineering.nyu.edu/).
+
+Check out my advisors' pages: Prof. [Yao Wang](http://eeweb.poly.edu/~yao/) and Prof. [Yong Liu](http://eeweb.poly.edu/~yongliu/)
 
 # Research
 
