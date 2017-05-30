@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hi :)
 
-I recently got my Ph.D. candidate from the [ECE Department](http://engineering.nyu.edu/academics/departments/electrical) at [NYU Tandon School of Engineering](http://engineering.nyu.edu/).
+I recently got my Ph.D. degree from the [ECE Department](http://engineering.nyu.edu/academics/departments/electrical) at [NYU Tandon School of Engineering](http://engineering.nyu.edu/).
 
 Check out my advisors' pages: Prof. [Yao Wang](http://eeweb.poly.edu/~yao/) and Prof. [Yong Liu](http://eeweb.poly.edu/~yongliu/)
 
@@ -26,9 +26,9 @@ You can [get the pdf](/assets/Eymen_Kurdoglu.pdf) directly.
 
 * E. K., Y. Liu, Y. Wang, "Perceptual Quality Maximization for Video Calls with Packet Losses by Optimizing FEC, Frame Rate and Quantization", submitted to IEEE Transactions on Multimedia
 
-* F. Duanmu, E. K., Y. Liu, Y. Wang, "Prioritized Buffer Control in Two-Tier 360 Video Streaming", submitted to ACM Sigcomm VR/AR Network Workshop 
+* F. Duanmu, E. K., Y. Liu, Y. Wang, "Prioritized Buffer Control in Two-Tier 360 Video Streaming", submitted to ACM Sigcomm VR/AR Network Workshop at SIGCOMM, 2017 / Los Angeles, CA, USA
 
-* F. Duanmu, E. K., Y. Liu, Y. Wang, "View Direction and Bandwidth Adaptive 360 Degree Video Streaming Using Two-Tier System", in Proc. of ISCAS, 2017 / Baltimore, Maryland 
+* F. Duanmu, E. K., Y. Liu, Y. Wang, "View Direction and Bandwidth Adaptive 360 Degree Video Streaming Using Two-Tier System", in Proc. of ISCAS, 2017 / Baltimore, MD, USA
 
 * E. K., Y. Liu, Y. Wang, Y. Shi, C. Gu, J. Lyu, "Real-time Bandwidth Prediction and Rate Estimation for Video Calls over Cellular Networks", in Proc. of ACM MMSys, 2016 / Klagenfurt, Austria
 
@@ -40,4 +40,4 @@ You can [get the pdf](/assets/Eymen_Kurdoglu.pdf) directly.
 
 * E. K., N. Thomos, P. Frossard, "Scalable Video Dissemination with Prioritized Network Coding", in Proc. of Workshop on Streaming and Media Communications (in conjunction with ICME), 2011 / Barcelona, Spain
 
-* N. Thomos, H. Park, E. K., P. Frossard, "Network Coding Node Selection Game in Collaborative Streaming Systems", in Proc. of ICASSP, 2010 / Dallas, Texas
+* N. Thomos, H. Park, E. K., P. Frossard, "Network Coding Node Selection Game in Collaborative Streaming Systems", in Proc. of ICASSP, 2010 / Dallas, TX, USA
