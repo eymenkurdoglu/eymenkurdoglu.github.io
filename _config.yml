@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Eymen Kurdoglu
-email: ek1666@nyu.edu
+title: 
+email: eymen.kurdoglu@nyu.edu
 description: > # this means to ignore newlines until "baseurl:"
  a collection of notes about the stuff that keeps me busy
 baseurl: "" # the subpath of your site, e.g. /blog

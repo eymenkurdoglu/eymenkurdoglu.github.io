@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About me
+title: Hello there.
 permalink: /about/
 ---
 
-# Hi :)
-
-I recently got my Ph.D. degree from the [ECE Department](http://engineering.nyu.edu/academics/departments/electrical) at [NYU Tandon School of Engineering](http://engineering.nyu.edu/). My academic parents are Prof. [Yao Wang](http://eeweb.poly.edu/~yao/) and Prof. [Yong Liu](http://eeweb.poly.edu/~yongliu/).
+I am a multimedia research engineer, aspiring the connect the world one pair of people at a time. I recently got my Ph.D. degree from the [ECE Department](http://engineering.nyu.edu/academics/departments/electrical) at [NYU Tandon School of Engineering](http://engineering.nyu.edu/). My academic parents are Prof. [Yao Wang](http://eeweb.poly.edu/~yao/) and Prof. [Yong Liu](http://eeweb.poly.edu/~yongliu/).
 
 # Research
 
